@@ -1,2 +1,2 @@
-# repositorii_odnogo_fiitovca
+# svg_to_pdf
 Вытаскивает Презентацию с ббб и сохраняет в pdf
